@@ -1,0 +1,6 @@
+<!-- dimens.xml en res/values -->
+
+<resources>
+    <!-- Definición de margen horizontal para la actividad -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+</resources>
